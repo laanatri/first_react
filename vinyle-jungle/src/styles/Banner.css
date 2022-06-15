@@ -6,4 +6,7 @@
     color: lightcoral;
 }
 
-.lmj-logo {}
+.lmj-logo {
+    height: 45px;
+    width: 45px;
+}
